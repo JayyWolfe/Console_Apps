@@ -1,0 +1,14 @@
+C:\Users\2013.103068\Desktop\C#_Lessons\reversing_words\reversing_words\obj\Debug\net6.0\reversing_words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103068\Desktop\C#_Lessons\reversing_words\reversing_words\obj\Debug\net6.0\reversing_words.AssemblyInfoInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\reversing_words\reversing_words\obj\Debug\net6.0\reversing_words.AssemblyInfo.cs
+C:\Users\2013.103068\Desktop\C#_Lessons\reversing_words\reversing_words\obj\Debug\net6.0\reversing_words.csproj.CoreCompileInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\reversing_words\reversing_words\bin\Debug\net6.0\reversing_words.exe
+C:\Users\2013.103068\Desktop\C#_Lessons\reversing_words\reversing_words\bin\Debug\net6.0\reversing_words.deps.json
+C:\Users\2013.103068\Desktop\C#_Lessons\reversing_words\reversing_words\bin\Debug\net6.0\reversing_words.runtimeconfig.json
+C:\Users\2013.103068\Desktop\C#_Lessons\reversing_words\reversing_words\bin\Debug\net6.0\reversing_words.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\reversing_words\reversing_words\bin\Debug\net6.0\reversing_words.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\reversing_words\reversing_words\obj\Debug\net6.0\reversing_words.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\reversing_words\reversing_words\obj\Debug\net6.0\refint\reversing_words.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\reversing_words\reversing_words\obj\Debug\net6.0\reversing_words.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\reversing_words\reversing_words\obj\Debug\net6.0\reversing_words.genruntimeconfig.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\reversing_words\reversing_words\obj\Debug\net6.0\ref\reversing_words.dll

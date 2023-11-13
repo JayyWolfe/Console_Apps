@@ -1,0 +1,16 @@
+C:\Users\2013.103068\Desktop\C#_Lessons\windowsFormsApp\windowsFormsApp\bin\Debug\net6.0-windows\windowsFormsApp.exe
+C:\Users\2013.103068\Desktop\C#_Lessons\windowsFormsApp\windowsFormsApp\bin\Debug\net6.0-windows\windowsFormsApp.deps.json
+C:\Users\2013.103068\Desktop\C#_Lessons\windowsFormsApp\windowsFormsApp\bin\Debug\net6.0-windows\windowsFormsApp.runtimeconfig.json
+C:\Users\2013.103068\Desktop\C#_Lessons\windowsFormsApp\windowsFormsApp\bin\Debug\net6.0-windows\windowsFormsApp.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\windowsFormsApp\windowsFormsApp\bin\Debug\net6.0-windows\windowsFormsApp.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\windowsFormsApp\windowsFormsApp\obj\Debug\net6.0-windows\windowsFormsApp.Form1.resources
+C:\Users\2013.103068\Desktop\C#_Lessons\windowsFormsApp\windowsFormsApp\obj\Debug\net6.0-windows\windowsFormsApp.csproj.GenerateResource.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\windowsFormsApp\windowsFormsApp\obj\Debug\net6.0-windows\windowsFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103068\Desktop\C#_Lessons\windowsFormsApp\windowsFormsApp\obj\Debug\net6.0-windows\windowsFormsApp.AssemblyInfoInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\windowsFormsApp\windowsFormsApp\obj\Debug\net6.0-windows\windowsFormsApp.AssemblyInfo.cs
+C:\Users\2013.103068\Desktop\C#_Lessons\windowsFormsApp\windowsFormsApp\obj\Debug\net6.0-windows\windowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\windowsFormsApp\windowsFormsApp\obj\Debug\net6.0-windows\windowsFormsApp.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\windowsFormsApp\windowsFormsApp\obj\Debug\net6.0-windows\refint\windowsFormsApp.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\windowsFormsApp\windowsFormsApp\obj\Debug\net6.0-windows\windowsFormsApp.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\windowsFormsApp\windowsFormsApp\obj\Debug\net6.0-windows\windowsFormsApp.genruntimeconfig.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\windowsFormsApp\windowsFormsApp\obj\Debug\net6.0-windows\ref\windowsFormsApp.dll

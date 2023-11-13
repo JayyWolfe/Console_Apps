@@ -1,0 +1,14 @@
+C:\Users\2013.103068\Desktop\C#_Lessons\upperandlowerbounds\upperandlowerbounds\obj\Debug\net6.0\upperandlowerbounds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103068\Desktop\C#_Lessons\upperandlowerbounds\upperandlowerbounds\obj\Debug\net6.0\upperandlowerbounds.AssemblyInfoInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\upperandlowerbounds\upperandlowerbounds\obj\Debug\net6.0\upperandlowerbounds.AssemblyInfo.cs
+C:\Users\2013.103068\Desktop\C#_Lessons\upperandlowerbounds\upperandlowerbounds\obj\Debug\net6.0\upperandlowerbounds.csproj.CoreCompileInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\upperandlowerbounds\upperandlowerbounds\bin\Debug\net6.0\upperandlowerbounds.exe
+C:\Users\2013.103068\Desktop\C#_Lessons\upperandlowerbounds\upperandlowerbounds\bin\Debug\net6.0\upperandlowerbounds.deps.json
+C:\Users\2013.103068\Desktop\C#_Lessons\upperandlowerbounds\upperandlowerbounds\bin\Debug\net6.0\upperandlowerbounds.runtimeconfig.json
+C:\Users\2013.103068\Desktop\C#_Lessons\upperandlowerbounds\upperandlowerbounds\bin\Debug\net6.0\upperandlowerbounds.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\upperandlowerbounds\upperandlowerbounds\bin\Debug\net6.0\upperandlowerbounds.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\upperandlowerbounds\upperandlowerbounds\obj\Debug\net6.0\upperandlowerbounds.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\upperandlowerbounds\upperandlowerbounds\obj\Debug\net6.0\refint\upperandlowerbounds.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\upperandlowerbounds\upperandlowerbounds\obj\Debug\net6.0\upperandlowerbounds.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\upperandlowerbounds\upperandlowerbounds\obj\Debug\net6.0\upperandlowerbounds.genruntimeconfig.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\upperandlowerbounds\upperandlowerbounds\obj\Debug\net6.0\ref\upperandlowerbounds.dll

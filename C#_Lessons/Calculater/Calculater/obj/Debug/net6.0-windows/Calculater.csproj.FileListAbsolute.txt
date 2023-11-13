@@ -1,0 +1,16 @@
+C:\Users\2013.103068\Desktop\C#_Lessons\Calculater\Calculater\bin\Debug\net6.0-windows\Calculater.exe
+C:\Users\2013.103068\Desktop\C#_Lessons\Calculater\Calculater\bin\Debug\net6.0-windows\Calculater.deps.json
+C:\Users\2013.103068\Desktop\C#_Lessons\Calculater\Calculater\bin\Debug\net6.0-windows\Calculater.runtimeconfig.json
+C:\Users\2013.103068\Desktop\C#_Lessons\Calculater\Calculater\bin\Debug\net6.0-windows\Calculater.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\Calculater\Calculater\bin\Debug\net6.0-windows\Calculater.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\Calculater\Calculater\obj\Debug\net6.0-windows\Calculater.Form1.resources
+C:\Users\2013.103068\Desktop\C#_Lessons\Calculater\Calculater\obj\Debug\net6.0-windows\Calculater.csproj.GenerateResource.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\Calculater\Calculater\obj\Debug\net6.0-windows\Calculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103068\Desktop\C#_Lessons\Calculater\Calculater\obj\Debug\net6.0-windows\Calculater.AssemblyInfoInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\Calculater\Calculater\obj\Debug\net6.0-windows\Calculater.AssemblyInfo.cs
+C:\Users\2013.103068\Desktop\C#_Lessons\Calculater\Calculater\obj\Debug\net6.0-windows\Calculater.csproj.CoreCompileInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\Calculater\Calculater\obj\Debug\net6.0-windows\Calculater.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\Calculater\Calculater\obj\Debug\net6.0-windows\refint\Calculater.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\Calculater\Calculater\obj\Debug\net6.0-windows\Calculater.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\Calculater\Calculater\obj\Debug\net6.0-windows\Calculater.genruntimeconfig.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\Calculater\Calculater\obj\Debug\net6.0-windows\ref\Calculater.dll

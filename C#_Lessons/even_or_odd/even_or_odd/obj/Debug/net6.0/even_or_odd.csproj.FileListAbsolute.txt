@@ -1,0 +1,14 @@
+C:\Users\2013.103068\Desktop\C#_Lessons\even_or_odd\even_or_odd\obj\Debug\net6.0\even_or_odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103068\Desktop\C#_Lessons\even_or_odd\even_or_odd\obj\Debug\net6.0\even_or_odd.AssemblyInfoInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\even_or_odd\even_or_odd\obj\Debug\net6.0\even_or_odd.AssemblyInfo.cs
+C:\Users\2013.103068\Desktop\C#_Lessons\even_or_odd\even_or_odd\obj\Debug\net6.0\even_or_odd.csproj.CoreCompileInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\even_or_odd\even_or_odd\bin\Debug\net6.0\even_or_odd.exe
+C:\Users\2013.103068\Desktop\C#_Lessons\even_or_odd\even_or_odd\bin\Debug\net6.0\even_or_odd.deps.json
+C:\Users\2013.103068\Desktop\C#_Lessons\even_or_odd\even_or_odd\bin\Debug\net6.0\even_or_odd.runtimeconfig.json
+C:\Users\2013.103068\Desktop\C#_Lessons\even_or_odd\even_or_odd\bin\Debug\net6.0\even_or_odd.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\even_or_odd\even_or_odd\bin\Debug\net6.0\even_or_odd.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\even_or_odd\even_or_odd\obj\Debug\net6.0\even_or_odd.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\even_or_odd\even_or_odd\obj\Debug\net6.0\refint\even_or_odd.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\even_or_odd\even_or_odd\obj\Debug\net6.0\even_or_odd.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\even_or_odd\even_or_odd\obj\Debug\net6.0\even_or_odd.genruntimeconfig.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\even_or_odd\even_or_odd\obj\Debug\net6.0\ref\even_or_odd.dll

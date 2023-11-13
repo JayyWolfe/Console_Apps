@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/FUTRlV3ToMTsguUgq7W2sGyLKYNTAVKS7g7sRRJXtu8ddMlnnn2CygXHo/Puy1Ah8D6WqypM0QaGKKUSptu2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2013.103068\\Desktop\\C#_Lessons\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2013.103068\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

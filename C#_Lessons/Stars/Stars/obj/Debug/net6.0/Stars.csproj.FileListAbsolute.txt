@@ -1,0 +1,14 @@
+C:\Users\2013.103068\Desktop\C#_Lessons\Stars\Stars\obj\Debug\net6.0\Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103068\Desktop\C#_Lessons\Stars\Stars\obj\Debug\net6.0\Stars.AssemblyInfoInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\Stars\Stars\obj\Debug\net6.0\Stars.AssemblyInfo.cs
+C:\Users\2013.103068\Desktop\C#_Lessons\Stars\Stars\obj\Debug\net6.0\Stars.csproj.CoreCompileInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\Stars\Stars\bin\Debug\net6.0\Stars.exe
+C:\Users\2013.103068\Desktop\C#_Lessons\Stars\Stars\bin\Debug\net6.0\Stars.deps.json
+C:\Users\2013.103068\Desktop\C#_Lessons\Stars\Stars\bin\Debug\net6.0\Stars.runtimeconfig.json
+C:\Users\2013.103068\Desktop\C#_Lessons\Stars\Stars\bin\Debug\net6.0\Stars.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\Stars\Stars\bin\Debug\net6.0\Stars.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\Stars\Stars\obj\Debug\net6.0\Stars.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\Stars\Stars\obj\Debug\net6.0\refint\Stars.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\Stars\Stars\obj\Debug\net6.0\Stars.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\Stars\Stars\obj\Debug\net6.0\Stars.genruntimeconfig.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\Stars\Stars\obj\Debug\net6.0\ref\Stars.dll

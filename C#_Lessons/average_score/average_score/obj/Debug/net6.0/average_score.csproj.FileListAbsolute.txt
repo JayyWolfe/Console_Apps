@@ -1,0 +1,14 @@
+C:\Users\2013.103068\Desktop\C#_Lessons\average_score\average_score\bin\Debug\net6.0\average_score.exe
+C:\Users\2013.103068\Desktop\C#_Lessons\average_score\average_score\bin\Debug\net6.0\average_score.deps.json
+C:\Users\2013.103068\Desktop\C#_Lessons\average_score\average_score\bin\Debug\net6.0\average_score.runtimeconfig.json
+C:\Users\2013.103068\Desktop\C#_Lessons\average_score\average_score\bin\Debug\net6.0\average_score.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\average_score\average_score\bin\Debug\net6.0\average_score.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\average_score\average_score\obj\Debug\net6.0\average_score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103068\Desktop\C#_Lessons\average_score\average_score\obj\Debug\net6.0\average_score.AssemblyInfoInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\average_score\average_score\obj\Debug\net6.0\average_score.AssemblyInfo.cs
+C:\Users\2013.103068\Desktop\C#_Lessons\average_score\average_score\obj\Debug\net6.0\average_score.csproj.CoreCompileInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\average_score\average_score\obj\Debug\net6.0\average_score.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\average_score\average_score\obj\Debug\net6.0\refint\average_score.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\average_score\average_score\obj\Debug\net6.0\average_score.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\average_score\average_score\obj\Debug\net6.0\average_score.genruntimeconfig.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\average_score\average_score\obj\Debug\net6.0\ref\average_score.dll

@@ -1,0 +1,14 @@
+C:\Users\2013.103068\Desktop\C#_Lessons\hourly_wage\hourly_wage\bin\Debug\net6.0\hourly_wage.exe
+C:\Users\2013.103068\Desktop\C#_Lessons\hourly_wage\hourly_wage\bin\Debug\net6.0\hourly_wage.deps.json
+C:\Users\2013.103068\Desktop\C#_Lessons\hourly_wage\hourly_wage\bin\Debug\net6.0\hourly_wage.runtimeconfig.json
+C:\Users\2013.103068\Desktop\C#_Lessons\hourly_wage\hourly_wage\bin\Debug\net6.0\hourly_wage.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\hourly_wage\hourly_wage\bin\Debug\net6.0\hourly_wage.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\hourly_wage\hourly_wage\obj\Debug\net6.0\hourly_wage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103068\Desktop\C#_Lessons\hourly_wage\hourly_wage\obj\Debug\net6.0\hourly_wage.AssemblyInfoInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\hourly_wage\hourly_wage\obj\Debug\net6.0\hourly_wage.AssemblyInfo.cs
+C:\Users\2013.103068\Desktop\C#_Lessons\hourly_wage\hourly_wage\obj\Debug\net6.0\hourly_wage.csproj.CoreCompileInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\hourly_wage\hourly_wage\obj\Debug\net6.0\hourly_wage.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\hourly_wage\hourly_wage\obj\Debug\net6.0\refint\hourly_wage.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\hourly_wage\hourly_wage\obj\Debug\net6.0\hourly_wage.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\hourly_wage\hourly_wage\obj\Debug\net6.0\hourly_wage.genruntimeconfig.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\hourly_wage\hourly_wage\obj\Debug\net6.0\ref\hourly_wage.dll

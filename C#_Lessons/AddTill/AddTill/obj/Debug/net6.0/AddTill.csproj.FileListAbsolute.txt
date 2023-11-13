@@ -1,0 +1,14 @@
+C:\Users\2013.103068\Desktop\C#_Lessons\AddTill\AddTill\bin\Debug\net6.0\AddTill.exe
+C:\Users\2013.103068\Desktop\C#_Lessons\AddTill\AddTill\bin\Debug\net6.0\AddTill.deps.json
+C:\Users\2013.103068\Desktop\C#_Lessons\AddTill\AddTill\bin\Debug\net6.0\AddTill.runtimeconfig.json
+C:\Users\2013.103068\Desktop\C#_Lessons\AddTill\AddTill\bin\Debug\net6.0\AddTill.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\AddTill\AddTill\bin\Debug\net6.0\AddTill.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\AddTill\AddTill\obj\Debug\net6.0\AddTill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103068\Desktop\C#_Lessons\AddTill\AddTill\obj\Debug\net6.0\AddTill.AssemblyInfoInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\AddTill\AddTill\obj\Debug\net6.0\AddTill.AssemblyInfo.cs
+C:\Users\2013.103068\Desktop\C#_Lessons\AddTill\AddTill\obj\Debug\net6.0\AddTill.csproj.CoreCompileInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\AddTill\AddTill\obj\Debug\net6.0\AddTill.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\AddTill\AddTill\obj\Debug\net6.0\refint\AddTill.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\AddTill\AddTill\obj\Debug\net6.0\AddTill.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\AddTill\AddTill\obj\Debug\net6.0\AddTill.genruntimeconfig.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\AddTill\AddTill\obj\Debug\net6.0\ref\AddTill.dll

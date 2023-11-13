@@ -1,0 +1,14 @@
+C:\Users\2013.103068\Desktop\C#_Lessons\Functions_2\Functions_2\bin\Debug\net6.0\Functions_2.exe
+C:\Users\2013.103068\Desktop\C#_Lessons\Functions_2\Functions_2\bin\Debug\net6.0\Functions_2.deps.json
+C:\Users\2013.103068\Desktop\C#_Lessons\Functions_2\Functions_2\bin\Debug\net6.0\Functions_2.runtimeconfig.json
+C:\Users\2013.103068\Desktop\C#_Lessons\Functions_2\Functions_2\bin\Debug\net6.0\Functions_2.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\Functions_2\Functions_2\bin\Debug\net6.0\Functions_2.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\Functions_2\Functions_2\obj\Debug\net6.0\Functions_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103068\Desktop\C#_Lessons\Functions_2\Functions_2\obj\Debug\net6.0\Functions_2.AssemblyInfoInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\Functions_2\Functions_2\obj\Debug\net6.0\Functions_2.AssemblyInfo.cs
+C:\Users\2013.103068\Desktop\C#_Lessons\Functions_2\Functions_2\obj\Debug\net6.0\Functions_2.csproj.CoreCompileInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\Functions_2\Functions_2\obj\Debug\net6.0\Functions_2.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\Functions_2\Functions_2\obj\Debug\net6.0\refint\Functions_2.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\Functions_2\Functions_2\obj\Debug\net6.0\Functions_2.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\Functions_2\Functions_2\obj\Debug\net6.0\Functions_2.genruntimeconfig.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\Functions_2\Functions_2\obj\Debug\net6.0\ref\Functions_2.dll

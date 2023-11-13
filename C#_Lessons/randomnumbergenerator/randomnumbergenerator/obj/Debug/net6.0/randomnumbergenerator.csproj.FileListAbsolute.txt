@@ -1,0 +1,14 @@
+C:\Users\2013.103068\Desktop\C#_Lessons\randomnumbergenerator\randomnumbergenerator\bin\Debug\net6.0\randomnumbergenerator.exe
+C:\Users\2013.103068\Desktop\C#_Lessons\randomnumbergenerator\randomnumbergenerator\bin\Debug\net6.0\randomnumbergenerator.deps.json
+C:\Users\2013.103068\Desktop\C#_Lessons\randomnumbergenerator\randomnumbergenerator\bin\Debug\net6.0\randomnumbergenerator.runtimeconfig.json
+C:\Users\2013.103068\Desktop\C#_Lessons\randomnumbergenerator\randomnumbergenerator\bin\Debug\net6.0\randomnumbergenerator.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\randomnumbergenerator\randomnumbergenerator\bin\Debug\net6.0\randomnumbergenerator.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\randomnumbergenerator\randomnumbergenerator\obj\Debug\net6.0\randomnumbergenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103068\Desktop\C#_Lessons\randomnumbergenerator\randomnumbergenerator\obj\Debug\net6.0\randomnumbergenerator.AssemblyInfoInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\randomnumbergenerator\randomnumbergenerator\obj\Debug\net6.0\randomnumbergenerator.AssemblyInfo.cs
+C:\Users\2013.103068\Desktop\C#_Lessons\randomnumbergenerator\randomnumbergenerator\obj\Debug\net6.0\randomnumbergenerator.csproj.CoreCompileInputs.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\randomnumbergenerator\randomnumbergenerator\obj\Debug\net6.0\randomnumbergenerator.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\randomnumbergenerator\randomnumbergenerator\obj\Debug\net6.0\refint\randomnumbergenerator.dll
+C:\Users\2013.103068\Desktop\C#_Lessons\randomnumbergenerator\randomnumbergenerator\obj\Debug\net6.0\randomnumbergenerator.pdb
+C:\Users\2013.103068\Desktop\C#_Lessons\randomnumbergenerator\randomnumbergenerator\obj\Debug\net6.0\randomnumbergenerator.genruntimeconfig.cache
+C:\Users\2013.103068\Desktop\C#_Lessons\randomnumbergenerator\randomnumbergenerator\obj\Debug\net6.0\ref\randomnumbergenerator.dll
